@@ -16,7 +16,7 @@ principles.
 
 Title | | Time
 ---|-:|---
-The Well-Architected Opportunity for Partners || 15 min
+The Well-Architected Opportunity || 15 min
 Well-Architected Framework standardized process || 20 min
 Break || 15 min
 Group formation || 10 min
